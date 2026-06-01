@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What are the dual goals that Eggplant and Tofu need to focus on for their concert?",
+    "options": ["Raising awareness and increasing desire to attend", "Reducing costs and increasing the concert duration", "Improving sound quality and stage design", "Maximizing audience retention and minimizing effort"],
+    "answer": "Raising awareness and increasing desire to attend"
+  },
+  {
+    "id": 2,
+    "question": "What approach did Eggplant and Tofu use to brainstorm solutions for their concert promotion?",
+    "options": ["Logic tree approach", "Random idea generation", "Reverse engineering", "Role-playing exercises"],
+    "answer": "Logic tree approach"
+  },
+  {
+    "id": 3,
+    "question": "What is an example of traditional media that Eggplant and Tofu considered for promoting their concert?",
+    "options": ["Posters", "E-mail", "Radio", "Social media"],
+    "answer": "Radio"
+  },
+  {
+    "id": 4,
+    "question": "What type of in-person promotion did Eggplant and Tofu consider?",
+    "options": ["Performing during homeroom", "Setting up booths in the cafeteria", "Hosting a meet-and-greet session", "Designing exclusive merchandise"],
+    "answer": "Performing during homeroom"
+  },
+  {
+    "id": 5,
+    "question": "What was one of the key strategies for creating impactful messaging?",
+    "options": ["Listing event details only", "Only posting online", "Including their music to entice listeners", "Avoiding any visuals in the posters"],
+    "answer": "Including their music to entice listeners"
+  },
+  {
+    "id": 6,
+    "question": "What was a suggested change to the concert's timing based on feedback?",
+    "options": ["Start at 7 p.m.", "Start earlier at 5 p.m.", "Start at noon", "Have concerts during the weekend only"],
+    "answer": "Start earlier at 5 p.m."
+  },
+  {
+    "id": 7,
+    "question": "What is one way Eggplant and Tofu aimed to refresh their concert experience?",
+    "options": ["Adding food stands", "Changing the order of the setlist and introducing new songs", "Performing in a larger venue", "Holding two concerts in one day"],
+    "answer": "Changing the order of the setlist and introducing new songs"
+  },
+  {
+    "id": 8,
+    "question": "Why did Eggplant and Tofu prioritize generating a variety of solutions?",
+    "options": ["To avoid wasting time", "To ensure all potential avenues were explored", "To reduce costs", "To focus only on online promotion"],
+    "answer": "To ensure all potential avenues were explored"
+  },
+  {
+    "id": 9,
+    "question": "How did Eggplant and Tofu refine their list of solutions?",
+    "options": ["By choosing only the most expensive options", "By prioritizing ideas based on feasibility and impact", "By asking their teachers for suggestions", "By implementing every idea without evaluation"],
+    "answer": "By prioritizing ideas based on feasibility and impact"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following was NOT part of the final list of actionable ideas?",
+    "options": ["Performing during homeroom", "Changing the concert time", "Selling tickets at the door only", "Creating CDs with their music and concert information"],
+    "answer": "Selling tickets at the door only"
+  }
+]

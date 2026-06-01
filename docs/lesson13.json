@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is John Octopus’s immediate goal?",
+    "options": ["Become a Hollywood animator", "Buy a computer for learning CGI animation", "Save money for a vacation", "Start a design business"],
+    "answer": "Buy a computer for learning CGI animation"
+  },
+  {
+    "id": 2,
+    "question": "What is the estimated cost of the computer John needs to buy?",
+    "options": ["$1,000", "$1,200", "$1,500", "$2,000"],
+    "answer": "$1,500"
+  },
+  {
+    "id": 3,
+    "question": "What are two potential ways John can close the gap between his savings and the required amount?",
+    "options": ["Borrow money from family", "Save money and earn extra income through freelance work and tutoring", "Sell his current computer", "Apply for loans"],
+    "answer": "Save money and earn extra income through freelance work and tutoring"
+  },
+  {
+    "id": 4,
+    "question": "What is one of John’s options for earning extra income?",
+    "options": ["Start a podcast", "Take freelance design projects", "Become a professional gamer", "Teach online programming classes"],
+    "answer": "Take freelance design projects"
+  },
+  {
+    "id": 5,
+    "question": "What is John’s hypothesis for closing the gap?",
+    "options": ["Buy a cheap computer", "Combine saving money with earning extra income", "Request a loan from a bank", "Rely on sponsorship only"],
+    "answer": "Combine saving money with earning extra income"
+  },
+  {
+    "id": 6,
+    "question": "What is John’s plan for the first two months?",
+    "options": ["Start saving 30% of his monthly allowance and secure freelance projects", "Focus only on saving money", "Purchase a second-hand computer", "Focus on creating art only"],
+    "answer": "Start saving 30% of his monthly allowance and secure freelance projects"
+  },
+  {
+    "id": 7,
+    "question": "What should John do in months 3-4?",
+    "options": ["Shortlist potential computers, including used options", "Start applying to universities", "Purchase the computer", "Find a sponsorship from Hollywood studios"],
+    "answer": "Shortlist potential computers, including used options"
+  },
+  {
+    "id": 8,
+    "question": "What is John’s action in months 5-6?",
+    "options": ["Start learning CGI", "Evaluate total savings and earnings and buy the computer", "Take a break from work", "Teach design to others"],
+    "answer": "Evaluate total savings and earnings and buy the computer"
+  },
+  {
+    "id": 9,
+    "question": "What is one source John can consider for obtaining a computer?",
+    "options": ["Buy new equipment only", "Borrow a computer from a friend", "Look for used equipment", "Wait for a sale"],
+    "answer": "Look for used equipment"
+  },
+  {
+    "id": 10,
+    "question": "What is the broader goal that John Octopus is working towards?",
+    "options": ["Master CGI and pursue a career in Hollywood", "Become a professional artist", "Create a successful online business", "Become a high school teacher"],
+    "answer": "Master CGI and pursue a career in Hollywood"
+  }
+]

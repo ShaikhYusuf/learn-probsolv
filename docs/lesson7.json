@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the main objective of Analysis 1 in testing the hypothesis for Mushroom Lovers' concert attendance?",
+    "options": ["Understand why people don't attend", "Categorize the audience by their awareness of the concerts", "Evaluate the performance quality of the concerts", "Analyze the competition in the area"],
+    "answer": "Categorize the audience by their awareness of the concerts"
+  },
+  {
+    "id": 2,
+    "question": "What method do Eggplant and Tofu use to categorize audience awareness efficiently?",
+    "options": ["Individual surveys sent to all students", "Conducting a survey during homeroom through teachers", "Hosting a town hall meeting", "Sending a digital form via email"],
+    "answer": "Conducting a survey during homeroom through teachers"
+  },
+  {
+    "id": 3,
+    "question": "What three questions are asked in the Monday morning homeroom survey?",
+    "options": ["Have you seen the Mushroom Lovers' concerts?", "Are you a fan of the band?", "Do you know about the Mushroom Lovers' concerts?", "Do you attend Mushroom Lovers' concerts regularly?"],
+    "answer": "Do you know about the Mushroom Lovers' concerts?; Have you ever attended a Mushroom Lovers' concert?; Do you attend Mushroom Lovers' concerts regularly?"
+  },
+  {
+    "id": 4,
+    "question": "What is the main objective of Analysis 2 in testing the hypothesis?",
+    "options": ["Identify why some aware individuals choose not to attend concerts", "Analyze the concert's musical quality", "Survey the entire school on attendance", "Evaluate why regular attendees stop coming"],
+    "answer": "Identify why some aware individuals choose not to attend concerts"
+  },
+  {
+    "id": 5,
+    "question": "How does Eggplant and Tofu plan to conduct Analysis 2?",
+    "options": ["Send out anonymous forms", "Interview a small sample of people who are aware but have never attended", "Ask for feedback after each concert", "Survey the audience on social media"],
+    "answer": "Interview a small sample of people who are aware but have never attended"
+  },
+  {
+    "id": 6,
+    "question": "What is the purpose of conducting interviews for Analysis 2?",
+    "options": ["To gather general feedback about the concerts", "To identify reasons why some aware individuals do not attend", "To check if the band’s popularity is rising", "To recruit new attendees for future concerts"],
+    "answer": "To identify reasons why some aware individuals do not attend"
+  },
+  {
+    "id": 7,
+    "question": "What is the main objective of Analysis 3 in the hypothesis testing process?",
+    "options": ["Identify why some attendees do not return regularly", "Determine the total number of concert attendees", "Evaluate the overall satisfaction of concertgoers", "Measure the success of the concert’s advertising"],
+    "answer": "Identify why some attendees do not return regularly"
+  },
+  {
+    "id": 8,
+    "question": "How does Eggplant and Tofu plan to conduct Analysis 3?",
+    "options": ["Conduct random interviews with the entire school", "Interview individuals who attended but stopped returning", "Analyze concert video footage", "Survey all regular attendees"],
+    "answer": "Interview individuals who attended but stopped returning"
+  },
+  {
+    "id": 9,
+    "question": "What type of questions will Eggplant and Tofu ask during interviews for Analysis 3?",
+    "options": ["What would encourage consistent attendance?", "How did you hear about the concert?", "Why did you not enjoy the concert?", "What improvements would you suggest for the band's performance?"],
+    "answer": "What would encourage consistent attendance?"
+  },
+  {
+    "id": 10,
+    "question": "What is the key takeaway from this lesson on determining the analyses and information required to test a hypothesis?",
+    "options": ["The purpose of collecting data is to gather as much information as possible", "Data collection should be efficient and targeted to support decision-making", "Interviews should be conducted with as many people as possible", "Data collection is not important in hypothesis testing"],
+    "answer": "Data collection should be efficient and targeted to support decision-making"
+  }
+]

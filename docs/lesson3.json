@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the main purpose of using a Logic Tree?",
+    "options": ["Identifying all potential root causes", "Executing a plan without analysis", "Visualizing the solution", "Testing hypotheses"],
+    "answer": "Identifying all potential root causes"
+  },
+  {
+    "id": 2,
+    "question": "How should topics be grouped in a Logic Tree?",
+    "options": ["Randomly", "By time sequence", "By similarity under the same branch", "By their complexity"],
+    "answer": "By similarity under the same branch"
+  },
+  {
+    "id": 3,
+    "question": "In building a Logic Tree, what should be placed on the left side?",
+    "options": ["Subcategories", "The problem", "Refined categories", "Solutions"],
+    "answer": "The problem"
+  },
+  {
+    "id": 4,
+    "question": "What is the benefit of using a Logic Tree in problem-solving?",
+    "options": ["It ensures no root cause or solution is missed", "It makes assumptions clearer", "It encourages simple solutions", "It skips over complicated issues"],
+    "answer": "It ensures no root cause or solution is missed"
+  },
+  {
+    "id": 5,
+    "question": "When building a Logic Tree, what should you ensure about the branches?",
+    "options": ["Overlaps and omissions are acceptable", "Branches are in a random order", "There are no overlaps and no omissions", "Branches are vague to allow flexibility"],
+    "answer": "There are no overlaps and no omissions"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a correct example of a Logic Tree?",
+    "options": ["Boys → Girls → Tall → Short", "Increase top surface area → Increase number of holes → Increase hole size", "Increase hole size → Decrease surface area", "Increase number of holes → Decrease hole size"],
+    "answer": "Increase top surface area → Increase number of holes → Increase hole size"
+  },
+  {
+    "id": 7,
+    "question": "What is the first step in building a Logic Tree?",
+    "options": ["Group the topics", "Write the main issue on the left", "Add sub-branches", "Identify the solutions"],
+    "answer": "Write the main issue on the left"
+  },
+  {
+    "id": 8,
+    "question": "What should be asked when refining a Logic Tree from left to right?",
+    "options": ["What can I call this group to sum it up?", "What is the problem?", "Specifically, what or how?", "What happens if I do nothing?"],
+    "answer": "Specifically, what or how?"
+  },
+  {
+    "id": 9,
+    "question": "How should a Logic Tree be refined?",
+    "options": ["By ignoring subtopics", "By adding branches and refining categories", "By removing overlapping categories", "By ignoring details and focusing on broad categories"],
+    "answer": "By adding branches and refining categories"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a real-life application of a Logic Tree?",
+    "options": ["Increasing concert attendance for a rock band", "Creating a detailed action plan for a project", "Analyzing historical data", "Assigning tasks to team members"],
+    "answer": "Increasing concert attendance for a rock band"
+  }
+]

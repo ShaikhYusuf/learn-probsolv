@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the primary root cause of the low concert attendance for the Mushroom Lovers?",
+    "options": ["Poor performance", "Lack of awareness", "Competing events", "Poor audience retention"],
+    "answer": "Lack of awareness"
+  },
+  {
+    "id": 2,
+    "question": "Why is awareness considered the first step in solving the Mushroom Lovers' attendance problem?",
+    "options": ["Because people need to know about the concert to attend", "Because the concert performance is poor", "Because the band needs more practice", "Because there are no competing events"],
+    "answer": "Because people need to know about the concert to attend"
+  },
+  {
+    "id": 3,
+    "question": "What indicates that awareness is the issue in the Mushroom Lovers' case?",
+    "options": ["Eggplant and Tofu made minimal effort to spread the word", "The concert quality is low", "The band is not popular in the school", "There are too many competing events"],
+    "answer": "Eggplant and Tofu made minimal effort to spread the word"
+  },
+  {
+    "id": 4,
+    "question": "What is the estimated conversion rate of people who are aware of the concert and would likely attend?",
+    "options": ["40%", "60%", "80%", "100%"],
+    "answer": "60%"
+  },
+  {
+    "id": 5,
+    "question": "Why is audience retention not the issue for the Mushroom Lovers?",
+    "options": ["They have no return attendees", "They assume a 100% return rate based on consistent attendance", "Their audience is dissatisfied", "The concerts are always poorly planned"],
+    "answer": "They assume a 100% return rate based on consistent attendance"
+  },
+  {
+    "id": 6,
+    "question": "What should the Mushroom Lovers do to validate their hypothesis about awareness?",
+    "options": ["Increase concert duration", "Offer free tickets", "Conduct a survey to measure awareness", "Change the concert location"],
+    "answer": "Conduct a survey to measure awareness"
+  },
+  {
+    "id": 7,
+    "question": "What is one method to estimate the conversion rate of awareness to attendance?",
+    "options": ["Ask how many aware students would have attended if they knew about the event", "Offer free drinks", "Change the venue for each concert", "Give free concert tickets to random students"],
+    "answer": "Ask how many aware students would have attended if they knew about the event"
+  },
+  {
+    "id": 8,
+    "question": "What action should the Mushroom Lovers take if their hypothesis about awareness is validated?",
+    "options": ["Focus on improving the performance quality", "Raise awareness through posters, social media, and announcements", "Hire a professional band member", "Increase ticket prices to fund better concerts"],
+    "answer": "Raise awareness through posters, social media, and announcements"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of creating a buzz for the Mushroom Lovers' concerts?",
+    "options": ["Selling tickets in advance", "Sharing snippets of performances or offering free snacks at concerts", "Renting a larger venue", "Hiring a famous band member"],
+    "answer": "Sharing snippets of performances or offering free snacks at concerts"
+  },
+  {
+    "id": 10,
+    "question": "What is the expected outcome of addressing the awareness issue for the Mushroom Lovers?",
+    "options": ["Improved performance quality", "Increased concert attendance", "Better audience retention", "More social media followers"],
+    "answer": "Increased concert attendance"
+  }
+]

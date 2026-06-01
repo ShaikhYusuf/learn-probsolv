@@ -1,0 +1,111 @@
+ [{
+     "id": 1,
+     "question": "What is Miss Sigh’s typical reaction when faced with a problem?",
+     "options": [
+       "She seeks solutions and acts quickly.",
+       "She blames others for the problem.",
+       "She gives up at the first sign of trouble.",
+       "She analyzes the situation before taking action."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 2,
+     "question": "Which of the following is a common phrase of Mr. Critic?",
+     "options": [
+       "Let's figure out a solution together.",
+       "That's a stupid idea!",
+       "I’ll never be able to do that.",
+       "Thinking is a waste of time."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 3,
+     "question": "What is a key characteristic of Miss Dreamer?",
+     "options": [
+       "She is action-oriented and follows through.",
+       "She is full of ideas but never follows through.",
+       "She focuses on critical thinking and problem-solving.",
+       "She creates actionable plans and adapts as needed."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 4,
+     "question": "What is a weakness of Mr. Go-Getter?",
+     "options": [
+       "He never tries hard enough.",
+       "He lacks a clear plan and doesn't reflect on his actions.",
+       "He spends too much time analyzing the problem.",
+       "He procrastinates and doesn't take action."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 5,
+     "question": "What distinguishes a true problem-solving kid?",
+     "options": [
+       "They give up at the first challenge.",
+       "They create plans, take action, and adapt as needed.",
+       "They criticize others without offering solutions.",
+       "They avoid dealing with challenges."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 6,
+     "question": "How can problem-solving kids evolve over time?",
+     "options": [
+       "By avoiding failure at all costs.",
+       "Through continuous reflection and adapting their strategies.",
+       "By focusing only on big goals and ignoring small details.",
+       "By working without any feedback."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 7,
+     "question": "Which example demonstrates the power of evolution in problem-solving?",
+     "options": [
+       "Three fruit stand owners selling 100 watermelons a month.",
+       "Three fruit stand owners increasing their sales by varying monthly percentages over time.",
+       "One person solving a problem without a plan.",
+       "A fruit stand owner giving up after a few failed attempts."
+     ],
+     "answer": 2
+   },
+   {
+     "id": 8,
+     "question": "What is the main goal of a problem-solving kid?",
+     "options": [
+       "To blame others for mistakes.",
+       "To learn from outcomes and improve over time.",
+       "To avoid challenges.",
+       "To ignore feedback and keep moving forward."
+     ],
+     "answer": 1
+   },
+   {
+     "id": 9,
+     "question": "What phrase is most likely to be said by a problem-solving kid?",
+     "options": [
+       "I’m not talented enough.",
+       "What worked? What didn’t? How can we improve next time?",
+       "I don’t care about solutions.",
+       "That’s a stupid idea!"
+     ],
+     "answer": 1
+   },
+   {
+     "id": 10,
+     "question": "Which characteristic does a problem-solving kid NOT have?",
+     "options": [
+       "They reflect on past actions to improve future outcomes.",
+       "They blame others for their mistakes.",
+       "They make plans before taking action.",
+       "They adapt based on feedback and evaluation."
+     ],
+     "answer": 2
+   }
+ ]

@@ -1,0 +1,63 @@
+[
+      {
+        "id": 1,
+        "question": "What was the target audience size for the Mushroom Lovers’ Concert?",
+        "options": ["100 attendees", "150 attendees", "200 attendees", "300 attendees"],
+        "answer": "200 attendees"
+      },
+      {
+        "id": 2,
+        "question": "How many people attended the Mushroom Lovers’ Concert?",
+        "options": ["150", "200", "250", "Over 200"],
+        "answer": "Over 200"
+      },
+      {
+        "id": 3,
+        "question": "What percentage of the school became aware of the concert?",
+        "options": ["70%", "80%", "90%", "100%"],
+        "answer": "90%"
+      },
+      {
+        "id": 4,
+        "question": "What percentage of those aware of the concert were motivated to attend?",
+        "options": ["40%", "50%", "60%", "70%"],
+        "answer": "50%"
+      },
+      {
+        "id": 5,
+        "question": "What percentage of attendees planned to return for future events?",
+        "options": ["60%", "70%", "80%", "90%"],
+        "answer": "90%"
+      },
+      {
+        "id": 6,
+        "question": "Which element contributed to creating an electrifying atmosphere during the concert?",
+        "options": ["High volume music", "Bright lights", "Audience cheers and chants", "Free merchandise"],
+        "answer": "Audience cheers and chants"
+      },
+      {
+        "id": 7,
+        "question": "What was one key lesson learned from the Mushroom Lovers’ Concert?",
+        "options": ["Focus on selling tickets", "Prioritize high-impact, easy-to-implement actions", "Avoid collaboration", "Ignore audience feedback"],
+        "answer": "Prioritize high-impact, easy-to-implement actions"
+      },
+      {
+        "id": 8,
+        "question": "How did collaboration contribute to the band’s success?",
+        "options": ["By reducing the effort to design posters and produce CDs", "By helping them write the setlist", "By getting sponsors", "By increasing ticket sales"],
+        "answer": "By reducing the effort to design posters and produce CDs"
+      },
+      {
+        "id": 9,
+        "question": "What innovative strategy did the band use to drive engagement during the concert?",
+        "options": ["Free giveaways", "Performing during homeroom", "Inviting guest performers", "Discounted tickets"],
+        "answer": "Performing during homeroom"
+      },
+      {
+        "id": 10,
+        "question": "What is one of the band’s next steps after their success?",
+        "options": ["Disbanding", "Performing at nearby schools and community centers", "Focus solely on social media", "Stop performing to focus on branding"],
+        "answer": "Performing at nearby schools and community centers"
+      }
+    ]
+  

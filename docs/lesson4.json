@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What inspired Miss Mushroom to form a rock band?",
+    "options": ["Attending a Rolling Stones concert", "A dream about music", "A suggestion from Eggplant", "The desire to make money"],
+    "answer": "Attending a Rolling Stones concert"
+  },
+  {
+    "id": 2,
+    "question": "What was Eggplant's reaction to Miss Mushroom's concert idea?",
+    "options": ["Excitement", "Reluctance", "Support", "Indifference"],
+    "answer": "Reluctance"
+  },
+  {
+    "id": 3,
+    "question": "What challenge did Tofu face before becoming a drummer?",
+    "options": ["Lack of rhythm", "Not owning a drum set", "No music theory knowledge", "Not being able to play chopsticks"],
+    "answer": "Not owning a drum set"
+  },
+  {
+    "id": 4,
+    "question": "Why did Miss Mushroom initially think her concerts were failing?",
+    "options": ["She thought the venue was too small", "Her band members were not promoting the concerts", "She didn't understand why nobody was showing up", "She lacked a good sound system"],
+    "answer": "She didn't understand why nobody was showing up"
+  },
+  {
+    "id": 5,
+    "question": "What was the attendance at the first Mushroom Lovers' concert?",
+    "options": ["5 people", "10 people", "20 people", "30 people"],
+    "answer": "10 people"
+  },
+  {
+    "id": 6,
+    "question": "What was the attendance at the second and third concerts?",
+    "options": ["15 people", "20 people", "25 people", "50 people"],
+    "answer": "15 people"
+  },
+  {
+    "id": 7,
+    "question": "What solution did Miss Mushroom use to secure permission for the concert?",
+    "options": ["Her charm", "A petition", "A formal letter", "Her popularity"],
+    "answer": "Her charm"
+  },
+  {
+    "id": 8,
+    "question": "What did Miss Mushroom believe about the poor concert attendance?",
+    "options": ["That the concerts were poorly organized", "That the location was unattractive", "That nobody cared about her music", "That her efforts weren't enough"],
+    "answer": "That her efforts weren't enough"
+  },
+  {
+    "id": 9,
+    "question": "What did Eggplant and Tofu decide to do after the third concert?",
+    "options": ["Quit the band", "Find the root cause of poor attendance", "Invite more people personally", "Change the concert location"],
+    "answer": "Find the root cause of poor attendance"
+  },
+  {
+    "id": 10,
+    "question": "What is the main goal of the Mushroom Lovers in this lesson?",
+    "options": ["To fill the gymnasium", "To perform at Madison Square Garden", "To find a new band member", "To improve their music skills"],
+    "answer": "To fill the gymnasium"
+  }
+]

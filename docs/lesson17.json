@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the first step in selecting the best ideas to close the gap?",
+    "options": ["Test the hypothesis", "Evaluate and eliminate ineffective ideas", "Increase working time", "Ask for help from others"],
+    "answer": "Evaluate and eliminate ineffective ideas"
+  },
+  {
+    "id": 2,
+    "question": "Why did John discard the idea of asking money from others?",
+    "options": ["It was too expensive", "It conflicted with his values", "It was not feasible", "It was too difficult to execute"],
+    "answer": "It conflicted with his values"
+  },
+  {
+    "id": 3,
+    "question": "What does John’s hypothesis involve in terms of specific actions?",
+    "options": ["Switching jobs, selling books, and reducing discretionary spending", "Borrowing money from friends", "Investing in stocks", "Cutting all entertainment expenses"],
+    "answer": "Switching jobs, selling books, and reducing discretionary spending"
+  },
+  {
+    "id": 4,
+    "question": "Why is John's hypothesis considered an assumption at this point?",
+    "options": ["He hasn't tested or verified it", "It was too complicated", "It was based on unreliable sources", "It wasn't clearly defined"],
+    "answer": "He hasn't tested or verified it"
+  },
+  {
+    "id": 5,
+    "question": "What was one of the ideas John eliminated from his logic tree?",
+    "options": ["Switching to a higher-paying job", "Investing money", "Selling books", "Saving more money"],
+    "answer": "Investing money"
+  },
+  {
+    "id": 6,
+    "question": "What does John need to do next after formulating his hypothesis?",
+    "options": ["Test his hypothesis", "Start working immediately", "Buy the computer", "Ask for more help from others"],
+    "answer": "Test his hypothesis"
+  },
+  {
+    "id": 7,
+    "question": "What is the key characteristic of the hypothesis John has formed?",
+    "options": ["It’s an untested assumption", "It’s based on careful research", "It guarantees success", "It is fully verified"],
+    "answer": "It’s an untested assumption"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a valid step in testing John’s hypothesis?",
+    "options": ["Gather information on higher-paying jobs", "Verify the feasibility of selling used books", "Test if switching jobs will actually help him earn more", "Buy the computer without further research"],
+    "answer": "Buy the computer without further research"
+  },
+  {
+    "id": 9,
+    "question": "What is the final goal that John is trying to achieve?",
+    "options": ["To switch jobs", "To buy a $500 used Apple computer", "To earn $500", "To test his hypothesis"],
+    "answer": "To buy a $500 used Apple computer"
+  },
+  {
+    "id": 10,
+    "question": "What should John do if his hypothesis is not valid after testing?",
+    "options": ["Give up", "Adjust his strategy", "Ignore the results", "Ask for more help from others"],
+    "answer": "Adjust his strategy"
+  }
+]

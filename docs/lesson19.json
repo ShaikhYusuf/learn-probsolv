@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the first step in testing a hypothesis according to John's approach?",
+    "options": [
+      "Identify the hypothesis",
+      "Gather information about part-time jobs",
+      "Analyze spending habits",
+      "Research sellable assets"
+    ],
+    "answer": "Identify the hypothesis"
+  },
+  {
+    "id": 2,
+    "question": "What does John need to do to analyze his spending?",
+    "options": [
+      "Create a list of all purchases and categorize them",
+      "Cut all discretionary spending immediately",
+      "Review bank statements only",
+      "Ask friends about their spending habits"
+    ],
+    "answer": "Create a list of all purchases and categorize them"
+  },
+  {
+    "id": 3,
+    "question": "Why is categorizing purchases important for John?",
+    "options": [
+      "To determine where he can cut costs and how much money he could save",
+      "To see where most of his money is going",
+      "To create a budget for future purchases",
+      "To understand his buying habits"
+    ],
+    "answer": "To determine where he can cut costs and how much money he could save"
+  },
+  {
+    "id": 4,
+    "question": "What is John’s hypothesis regarding his spending?",
+    "options": [
+      "He can buy a $500 computer in six months",
+      "He can reduce most of his spending by stopping the purchase of CDs and games",
+      "He can earn extra money by working part-time",
+      "He can sell his electronics to meet his goal"
+    ],
+    "answer": "He can reduce most of his spending by stopping the purchase of CDs and games"
+  },
+  {
+    "id": 5,
+    "question": "What does John need to do to test his hypothesis about selling assets?",
+    "options": [
+      "Identify items to sell and research their market value",
+      "Buy more items and sell them for a profit",
+      "Ask his parents for financial help",
+      "Reduce the number of items he owns"
+    ],
+    "answer": "Identify items to sell and research their market value"
+  },
+  {
+    "id": 6,
+    "question": "How does John plan to explore part-time job opportunities?",
+    "options": [
+      "By interviewing friends and neighbors about available jobs",
+      "By searching online job boards",
+      "By asking his family for job suggestions",
+      "By considering full-time work opportunities"
+    ],
+    "answer": "By interviewing friends and neighbors about available jobs"
+  },
+  {
+    "id": 7,
+    "question": "What is the purpose of interviewing friends about part-time job opportunities?",
+    "options": [
+      "To learn about pay rates and potential opportunities",
+      "To gain insights into career paths",
+      "To ask for job recommendations",
+      "To gather information on long-term job prospects"
+    ],
+    "answer": "To learn about pay rates and potential opportunities"
+  },
+  {
+    "id": 8,
+    "question": "What is the next step after identifying sellable assets?",
+    "options": [
+      "Research their market value",
+      "Find a buyer immediately",
+      "Save the items for future use",
+      "Donate the items to charity"
+    ],
+    "answer": "Research their market value"
+  },
+  {
+    "id": 9,
+    "question": "What will the spending breakdown analysis help John identify?",
+    "options": [
+      "How much money he can save by reducing discretionary spending",
+      "How much money he needs to borrow",
+      "Where he can invest his money",
+      "The best time to make purchases"
+    ],
+    "answer": "How much money he can save by reducing discretionary spending"
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of the design plan John created?",
+    "options": [
+      "To organize and clarify the steps needed to test his hypotheses",
+      "To calculate how much money he needs to borrow",
+      "To identify the quickest way to achieve his goal",
+      "To outline his strategy for buying a computer"
+    ],
+    "answer": "To organize and clarify the steps needed to test his hypotheses"
+  }
+]

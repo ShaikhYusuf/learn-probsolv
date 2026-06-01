@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is John’s main goal in the scenario described in Lesson 20?",
+    "options": [
+      "To buy a $500 computer",
+      "To reduce his monthly spending",
+      "To sell unnecessary assets",
+      "To find a higher-paying job"
+    ],
+    "answer": "To buy a $500 computer"
+  },
+  {
+    "id": 2,
+    "question": "What discovery did John make when he analyzed his spending?",
+    "options": [
+      "He spends more on sports drinks and comic books than he thought",
+      "His hypothesis about CD and video game spending was accurate",
+      "He could cut back on all his purchases easily",
+      "He doesn’t need to cut back on anything"
+    ],
+    "answer": "He spends more on sports drinks and comic books than he thought"
+  },
+  {
+    "id": 3,
+    "question": "Which purchases did John identify as harder to give up?",
+    "options": [
+      "Sports drinks and comic books",
+      "CDs and video games",
+      "Candy and comic books",
+      "Sports drinks and candy"
+    ],
+    "answer": "Sports drinks and comic books"
+  },
+  {
+    "id": 4,
+    "question": "What strategy did John use to prioritize his spending cuts?",
+    "options": [
+      "A matrix to rank spending by impact and willingness to sacrifice",
+      "An online budget tracker",
+      "A spreadsheet with all his expenses",
+      "A checklist of things he could sell"
+    ],
+    "answer": "A matrix to rank spending by impact and willingness to sacrifice"
+  },
+  {
+    "id": 5,
+    "question": "How did John reduce the cost of sports drinks?",
+    "options": [
+      "By buying a cheaper powdered mix and bringing it from home",
+      "By cutting out sports drinks completely",
+      "By finding a local discount store",
+      "By switching to water after games"
+    ],
+    "answer": "By buying a cheaper powdered mix and bringing it from home"
+  },
+  {
+    "id": 6,
+    "question": "What did John do to reduce his spending on comic books?",
+    "options": [
+      "Co-purchased comic books with a friend",
+      "Stopped buying comic books completely",
+      "Switched to digital comic books",
+      "Shared comic books with family"
+    ],
+    "answer": "Co-purchased comic books with a friend"
+  },
+  {
+    "id": 7,
+    "question": "How much did John reduce his spending on sports drinks and comic books?",
+    "options": [
+      "$60 per month",
+      "$60 over six months",
+      "$15 per month",
+      "$25 over six months"
+    ],
+    "answer": "$60 over six months"
+  },
+  {
+    "id": 8,
+    "question": "What did John find when he searched for sellable assets in his room?",
+    "options": [
+      "A brand-new dictionary and comic books",
+      "Old video games and CDs",
+      "A television and stereo",
+      "Old clothes and shoes"
+    ],
+    "answer": "A brand-new dictionary and comic books"
+  },
+  {
+    "id": 9,
+    "question": "What was John’s total earnings from selling unnecessary assets?",
+    "options": [
+      "$50",
+      "$75",
+      "$25",
+      "$100"
+    ],
+    "answer": "$50"
+  },
+  {
+    "id": 10,
+    "question": "What was John’s creative solution to increase his income?",
+    "options": [
+      "Walking multiple dogs at once",
+      "Asking for a raise at his current job",
+      "Starting a dog walking business",
+      "Taking on a second job"
+    ],
+    "answer": "Walking multiple dogs at once"
+  }
+]

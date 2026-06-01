@@ -1,0 +1,61 @@
+ [{
+     "id": 1,
+     "question": "What is the main purpose of creating a Problem-Solving Design Plan?",
+     "options": ["To start collecting data immediately", "To clarify issues and guide focused analysis", "To make assumptions about the problem", "To ignore unnecessary details and focus on the hypothesis"],
+     "answer": "To clarify issues and guide focused analysis"
+   },
+   {
+     "id": 2,
+     "question": "What does a Problem-Solving Design Plan ensure?",
+     "options": ["Efficient use of time and resources", "Wasteful analysis of irrelevant data", "Limited team involvement", "Lack of clear goals"],
+     "answer": "Efficient use of time and resources"
+   },
+   {
+     "id": 3,
+     "question": "What was the revised hypothesis after analyzing the audience awareness breakdown?",
+     "options": ["Increasing awareness alone will significantly boost attendance", "Increasing awareness will not significantly boost attendance", "Audience retention is the main issue", "Awareness is the only factor in attendance rates"],
+     "answer": "Increasing awareness will not significantly boost attendance"
+   },
+   {
+     "id": 4,
+     "question": "What were the main reasons identified for non-attendance despite awareness?",
+     "options": ["Low ticket prices and poor location", "Uncertainty about the band’s music quality, scheduling conflicts, and lack of interest", "Bad weather and inconvenient time of day", "Lack of promotion and poor visibility of events"],
+     "answer": "Uncertainty about the band’s music quality, scheduling conflicts, and lack of interest"
+   },
+   {
+     "id": 5,
+     "question": "What key insight was gained from the analysis of non-attendance despite awareness?",
+     "options": ["Efforts should focus on improving visibility and reputation", "Increasing the number of concerts will solve the problem", "Awareness campaigns should be discontinued", "Audience engagement is not important"],
+     "answer": "Efforts should focus on improving visibility and reputation"
+   },
+   {
+     "id": 6,
+     "question": "What was identified as the primary reason why some attendees stopped returning?",
+     "options": ["Scheduling conflicts with other events", "Lack of interest in the band’s music", "Repetitive song selections", "Insufficient seating at concerts"],
+     "answer": "Repetitive song selections"
+   },
+   {
+     "id": 7,
+     "question": "What is the recommended action to retain attendees based on the findings from interviews?",
+     "options": ["Perform the same songs at every concert", "Introduce variety and freshness to performances", "Reduce the length of the concerts", "Change the venue of the concerts frequently"],
+     "answer": "Introduce variety and freshness to performances"
+   },
+   {
+     "id": 8,
+     "question": "Why is it important to avoid acting on assumptions when solving a problem?",
+     "options": ["Because assumptions often lead to more effective strategies", "Because testing hypotheses helps avoid wasted effort on ineffective strategies", "Because assumptions provide quicker solutions", "Because assumptions focus on the least important factors"],
+     "answer": "Because testing hypotheses helps avoid wasted effort on ineffective strategies"
+   },
+   {
+     "id": 9,
+     "question": "What key lesson was learned from Eggplant and Tofu's analysis?",
+     "options": ["Increasing awareness alone is enough to boost attendance", "Addressing specific barriers to attendance leads to better results", "Feedback from attendees is irrelevant", "Concert timing doesn’t affect attendance"],
+     "answer": "Addressing specific barriers to attendance leads to better results"
+   },
+   {
+     "id": 10,
+     "question": "How does continuous improvement contribute to the Mushroom Lovers' success?",
+     "options": ["By avoiding new strategies and sticking with the old ones", "By incorporating audience feedback to maintain engagement and loyalty", "By performing fewer concerts each year", "By limiting the changes made to the concert format"],
+     "answer": "By incorporating audience feedback to maintain engagement and loyalty"
+   }
+ ]

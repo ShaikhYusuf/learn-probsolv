@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the main goal John is trying to achieve?",
+    "options": ["Buy a car", "Buy a $500 used Apple computer", "Save money for a trip", "Start a business"],
+    "answer": "Buy a $500 used Apple computer"
+  },
+  {
+    "id": 2,
+    "question": "Why is asking Mom for a higher allowance not a practical option for John?",
+    "options": ["It’s not realistic", "It relies on external help", "It’s too expensive", "It’s illegal"],
+    "answer": "It relies on external help"
+  },
+  {
+    "id": 3,
+    "question": "What is a key characteristic that makes an idea more effective?",
+    "options": ["Vagueness", "Detail", "Quickness", "Complexity"],
+    "answer": "Detail"
+  },
+  {
+    "id": 4,
+    "question": "What framework does John use to generate ideas for closing the gap?",
+    "options": ["Flowchart", "Logic Tree", "Mind Map", "Brainstorming Sessions"],
+    "answer": "Logic Tree"
+  },
+  {
+    "id": 5,
+    "question": "What are the two main categories that John should consider when brainstorming ideas?",
+    "options": ["Increase income and reduce spending", "Save money and invest", "Ask for help or do nothing", "Get a loan or save money"],
+    "answer": "Increase income and reduce spending"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of reducing spending?",
+    "options": ["Freelancing", "Cutting back on movie nights", "Asking for gifts", "Getting a loan"],
+    "answer": "Cutting back on movie nights"
+  },
+  {
+    "id": 7,
+    "question": "When using the Logic Tree framework, what does the horizontal expansion focus on?",
+    "options": ["Broad ideas", "Specific implementation of ideas", "Analyzing financial status", "Avoiding risks"],
+    "answer": "Specific implementation of ideas"
+  },
+  {
+    "id": 8,
+    "question": "What does the vertical expansion of the logic tree aim to do?",
+    "options": ["Explore additional solutions under each branch", "Simplify ideas", "Increase income", "Evaluate ideas critically"],
+    "answer": "Explore additional solutions under each branch"
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of self-generated income?",
+    "options": ["Asking for a loan", "Side jobs or freelancing", "Buying lottery tickets", "Waiting for a gift"],
+    "answer": "Side jobs or freelancing"
+  },
+  {
+    "id": 10,
+    "question": "Why is it important for John to avoid vague ideas when brainstorming?",
+    "options": ["They are harder to implement", "They are less focused and actionable", "They are more expensive", "They require external help"],
+    "answer": "They are less focused and actionable"
+  }
+]

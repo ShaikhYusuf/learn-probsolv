@@ -1,0 +1,62 @@
+[
+      {
+        "id": 1,
+        "question": "What is the first step in analyzing the Mushroom Lovers' concert attendance problem?",
+        "options": ["Identify root causes", "Conduct surveys", "Use a logic tree", "Promote concerts more"],
+        "answer": "Use a logic tree"
+      },
+      {
+        "id": 2,
+        "question": "Which of the following is a potential cause for lack of awareness of the concerts?",
+        "options": ["Poor sound quality", "Inadequate promotion or advertising", "Lack of interest", "Unappealing music style"],
+        "answer": "Inadequate promotion or advertising"
+      },
+      {
+        "id": 3,
+        "question": "What root cause is associated with people being aware of the concerts but not finding the band appealing?",
+        "options": ["Lack of credibility", "Mismatch between the band's music style and the audience’s preferences", "Poor concert experience", "Competing events"],
+        "answer": "Mismatch between the band's music style and the audience’s preferences"
+      },
+      {
+        "id": 4,
+        "question": "What could be a reason for poor retention of concert attendees?",
+        "options": ["Inadequate promotion", "Lack of variety or improvement in shows", "Interest mismatch", "No social media presence"],
+        "answer": "Lack of variety or improvement in shows"
+      },
+      {
+        "id": 5,
+        "question": "What action should be taken if a person is aware of the concerts but hasn’t attended one?",
+        "options": ["Focus on increasing awareness", "Focus on improving retention", "Focus on increasing interest", "Continue promoting the same way"],
+        "answer": "Focus on increasing interest"
+      },
+      {
+        "id": 6,
+        "question": "Which step comes after a person has attended a concert but does not attend consistently?",
+        "options": ["Improve the concert experience", "Focus on increasing interest", "Increase the number of promotions", "Build a stronger social media presence"],
+        "answer": "Improve the concert experience"
+      },
+      {
+        "id": 7,
+        "question": "Which of the following would NOT be an effective way to investigate the root causes of low concert attendance?",
+        "options": ["Conducting surveys or interviews", "Reviewing the effectiveness of promotional campaigns", "Improving sound and lighting quality", "Ignoring audience feedback"],
+        "answer": "Ignoring audience feedback"
+      },
+      {
+        "id": 8,
+        "question": "What should be done if the root cause of oversleeping is that the alarm volume was too low?",
+        "options": ["Set a second alarm", "Increase the alarm volume", "Place the alarm farther from the bed", "Sleep earlier"],
+        "answer": "Increase the alarm volume"
+      },
+      {
+        "id": 9,
+        "question": "What is the most important first step in the yes/no tree for oversleeping?",
+        "options": ["Did you wake up but go back to sleep?", "Did the alarm go off?", "Were you tired?", "Did you hear the alarm?"],
+        "answer": "Did the alarm go off?"
+      },
+      {
+        "id": 10,
+        "question": "What is the goal of the Mushroom Lovers' problem-solving approach?",
+        "options": ["Increase their social media followers", "Fill the gymnasium with attendees", "Improve the band’s music style", "Hire a new band member"],
+        "answer": "Fill the gymnasium with attendees"
+      }
+    ]

@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What was the primary goal of Eggplant and Tofu’s implementation plan?",
+    "options": ["To maximize ticket sales", "To raise awareness and drive attendance", "To focus on event decoration", "To improve the band's image"],
+    "answer": "To raise awareness and drive attendance"
+  },
+  {
+    "id": 2,
+    "question": "What was the reason for changing the concert timing to 5 PM?",
+    "options": ["To accommodate the band’s schedule", "To ensure the audience would be available", "To create a longer concert", "To match the school’s calendar"],
+    "answer": "To ensure the audience would be available"
+  },
+  {
+    "id": 3,
+    "question": "Which action was assigned to Tofu in Week 1?",
+    "options": ["Announce concert on high school radio", "Distribute CDs with concert details", "Post details on message boards", "Design posters with John Octopus"],
+    "answer": "Announce concert on high school radio"
+  },
+  {
+    "id": 4,
+    "question": "Which action was designed to boost social media presence in Week 2?",
+    "options": ["Create and distribute posters", "Announce concert on radio", "Boost social media presence", "Post details on message boards"],
+    "answer": "Boost social media presence"
+  },
+  {
+    "id": 5,
+    "question": "What was the purpose of updating the setlist in Week 3?",
+    "options": ["To make the concert longer", "To keep the concert exciting for returning attendees", "To increase audience engagement online", "To prepare for future concerts"],
+    "answer": "To keep the concert exciting for returning attendees"
+  },
+  {
+    "id": 6,
+    "question": "What task was assigned to Miss Mushroom in Week 2?",
+    "options": ["Design posters", "Write an article for the school newsletter", "Create CDs with concert details", "Post details on message boards"],
+    "answer": "Write an article for the school newsletter"
+  },
+  {
+    "id": 7,
+    "question": "Which action did Eggplant and Tofu take in Week 3 to enhance the concert experience?",
+    "options": ["Update the setlist with new songs", "Distribute CDs", "Create a website", "Engage with the school newsletter"],
+    "answer": "Update the setlist with new songs"
+  },
+  {
+    "id": 8,
+    "question": "What was the main purpose of creating a website for the concert?",
+    "options": ["To sell concert tickets", "To provide event details and samples of the band's music", "To attract professional sponsors", "To promote future concerts only"],
+    "answer": "To provide event details and samples of the band's music"
+  },
+  {
+    "id": 9,
+    "question": "How often did Eggplant and Tofu set up check-ins to monitor their progress?",
+    "options": ["Every week", "Every two weeks", "Every three days", "Once a month"],
+    "answer": "Every three days"
+  },
+  {
+    "id": 10,
+    "question": "What was one of the key lessons from the implementation plan?",
+    "options": ["Focus on expensive promotional strategies", "Stick only to high-impact actions", "Adjust priorities based on new insights or help from others", "Delegate all tasks to other students"],
+    "answer": "Adjust priorities based on new insights or help from others"
+  }
+]

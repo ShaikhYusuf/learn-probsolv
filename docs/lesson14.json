@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is John Octopus’s ultimate dream?",
+    "options": ["Become a Hollywood CGI movie director", "Become a freelance graphic designer", "Start a business", "Become a movie actor"],
+    "answer": "Become a Hollywood CGI movie director"
+  },
+  {
+    "id": 2,
+    "question": "What is John’s first goal in pursuit of his dream?",
+    "options": ["Buy a camera for filming", "Buy a $500 used Apple computer", "Attend animation classes", "Move to Hollywood"],
+    "answer": "Buy a $500 used Apple computer"
+  },
+  {
+    "id": 3,
+    "question": "What is the deadline John has set for acquiring the computer?",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "answer": "Six months"
+  },
+  {
+    "id": 4,
+    "question": "What is the condition John applies to purchasing the computer?",
+    "options": ["He will borrow money to buy it", "He will rent the computer", "He will buy it outright using his own resources", "He will save money for a year before buying it"],
+    "answer": "He will buy it outright using his own resources"
+  },
+  {
+    "id": 5,
+    "question": "What type of computer does John decide to buy?",
+    "options": ["A brand new Apple computer", "A used Apple computer", "A gaming computer", "A Windows laptop"],
+    "answer": "A used Apple computer"
+  },
+  {
+    "id": 6,
+    "question": "Why did John choose a $500 used Apple computer?",
+    "options": ["It is the most affordable option", "It is suitable for beginners in animation", "It is the latest model", "It is the most expensive model"],
+    "answer": "It is suitable for beginners in animation"
+  },
+  {
+    "id": 7,
+    "question": "What was John’s initial thought before refining his goal?",
+    "options": ["I want a high-end computer", "I want a computer", "I want to become a director", "I want to work in Hollywood"],
+    "answer": "I want a computer"
+  },
+  {
+    "id": 8,
+    "question": "How does setting a specific goal help John?",
+    "options": ["It helps him make decisions", "It provides a clear target and timeframe", "It motivates him to act", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 9,
+    "question": "What does John’s goal statement look like?",
+    "options": ["I want to learn animation", "I want to buy a $500 used Apple computer within six months without borrowing money from others", "I want to be a successful animator", "I want to work in Hollywood"],
+    "answer": "I want to buy a $500 used Apple computer within six months without borrowing money from others"
+  },
+  {
+    "id": 10,
+    "question": "Why is John’s goal considered well-defined?",
+    "options": ["It is general and flexible", "It is specific, time-bound, and condition-based", "It is not clear", "It is too vague to follow"],
+    "answer": "It is specific, time-bound, and condition-based"
+  }
+]

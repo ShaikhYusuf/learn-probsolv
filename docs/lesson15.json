@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "question": "What is John Octopus’s goal?",
+    "options": ["Save $500 for a new computer", "Earn $500 from dog walking", "Buy a new car", "Save $1000 for college"],
+    "answer": "Save $500 for a new computer"
+  },
+  {
+    "id": 2,
+    "question": "How much money does John currently have in savings?",
+    "options": ["$100", "$150", "$200", "$250"],
+    "answer": "$150"
+  },
+  {
+    "id": 3,
+    "question": "How much does John earn from his monthly allowance?",
+    "options": ["$10", "$15", "$20", "$25"],
+    "answer": "$20"
+  },
+  {
+    "id": 4,
+    "question": "How much does John earn monthly from dog walking?",
+    "options": ["$10", "$12", "$15", "$20"],
+    "answer": "$12"
+  },
+  {
+    "id": 5,
+    "question": "What are John’s monthly spending habits?",
+    "options": ["$5", "$10", "$15", "$20"],
+    "answer": "$15"
+  },
+  {
+    "id": 6,
+    "question": "What is John’s projected savings after six months?",
+    "options": ["$150", "$252", "$500", "$450"],
+    "answer": "$252"
+  },
+  {
+    "id": 7,
+    "question": "How much more money does John need to reach his $500 goal?",
+    "options": ["$248", "$100", "$50", "$150"],
+    "answer": "$248"
+  },
+  {
+    "id": 8,
+    "question": "What is the formula to calculate John’s projected savings after six months?",
+    "options": [
+      "Projected savings = Current savings + (Number of months × [Monthly allowance + Dog-walking income - Monthly spending])",
+      "Projected savings = Monthly allowance × Number of months",
+      "Projected savings = Current savings + Monthly income",
+      "Projected savings = Current savings - Monthly expenses"
+    ],
+    "answer": "Projected savings = Current savings + (Number of months × [Monthly allowance + Dog-walking income - Monthly spending])"
+  },
+  {
+    "id": 9,
+    "question": "What is the gap between John’s goal and his projected savings?",
+    "options": ["$248", "$200", "$150", "$100"],
+    "answer": "$248"
+  },
+  {
+    "id": 10,
+    "question": "What must John do to meet the $248 gap in his goal?",
+    "options": [
+      "Increase income, reduce expenses, or both",
+      "Take out a loan",
+      "Wait for the money to come in",
+      "Borrow money from friends"
+    ],
+    "answer": "Increase income, reduce expenses, or both"
+  }
+]

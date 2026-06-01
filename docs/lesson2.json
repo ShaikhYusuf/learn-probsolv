@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What is the first step in problem solving?",
+    "options": ["Understanding the current situation", "Identifying the root cause", "Developing an action plan", "Executing the plan"],
+    "answer": "Understanding the current situation"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a common mistake in problem solving?",
+    "options": ["Identifying the root cause", "Assumption without action", "Developing an action plan", "Breaking down problems into smaller parts"],
+    "answer": "Assumption without action"
+  },
+  {
+    "id": 3,
+    "question": "Why is it important to break problems into smaller parts?",
+    "options": ["To make the problem more complex", "To reduce panic and build confidence", "To avoid execution", "To identify root causes"],
+    "answer": "To reduce panic and build confidence"
+  },
+  {
+    "id": 4,
+    "question": "What should you do if your study effectiveness is the root cause of poor grades?",
+    "options": ["Quit extracurricular activities", "Seek help from teachers/friends", "Ignore the problem", "Stop studying completely"],
+    "answer": "Seek help from teachers/friends"
+  },
+  {
+    "id": 5,
+    "question": "What type of questions should be asked during Step 1 (Understand the Situation) of the problem-solving process?",
+    "options": ["How can I avoid failure?", "What types of questions am I getting wrong?", "What is my ultimate goal?", "What caused the problem?"],
+    "answer": "What types of questions am I getting wrong?"
+  },
+  {
+    "id": 6,
+    "question": "What should you do in Step 2 (Identify the Root Cause) of problem-solving?",
+    "options": ["Develop a plan", "Take action", "Break down the problem into smaller subtopics", "Ignore the issue"],
+    "answer": "Break down the problem into smaller subtopics"
+  },
+  {
+    "id": 7,
+    "question": "What is the benefit of asking 'Why' and 'How' repeatedly during the problem-solving process?",
+    "options": ["It helps refine understanding and actions", "It makes the problem more complicated", "It wastes time", "It leads to assumptions without actions"],
+    "answer": "It helps refine understanding and actions"
+  },
+  {
+    "id": 8,
+    "question": "What is a possible action to improve study effectiveness?",
+    "options": ["Ignore the problem", "Use better textbooks", "Quit school", "Reduce study time"],
+    "answer": "Use better textbooks"
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of the Problem-Solving Approach?",
+    "options": ["To understand the current situation", "To execute plans without adjustment", "To make assumptions about the problem", "To build confidence through random actions"],
+    "answer": "To understand the current situation"
+  },
+  {
+    "id": 10,
+    "question": "What is the danger of drastic but ineffective actions in problem solving?",
+    "options": ["It solves the root cause", "It improves the situation immediately", "It may not address the root cause", "It simplifies the problem"],
+    "answer": "It may not address the root cause"
+  }
+]

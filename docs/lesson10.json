@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "question": "What are the two main criteria Eggplant and Tofu used to prioritize their actions?",
+    "options": ["Impact and ease of implementation", "Time and cost", "Innovation and uniqueness", "Audience feedback and popularity"],
+    "answer": "Impact and ease of implementation"
+  },
+  {
+    "id": 2,
+    "question": "What does the vertical axis of the prioritization matrix represent?",
+    "options": ["Ease of implementation", "Impact", "Time", "Financial cost"],
+    "answer": "Impact"
+  },
+  {
+    "id": 3,
+    "question": "Which quadrant in the prioritization matrix represents actions with high impact and easy implementation?",
+    "options": ["Top Left", "Top Right", "Bottom Left", "Bottom Right"],
+    "answer": "Top Right"
+  },
+  {
+    "id": 4,
+    "question": "What action did Eggplant and Tofu place in the 'Top Right' quadrant of the matrix?",
+    "options": ["Perform during homeroom", "Put concert details on message boards", "Change concert timing", "Create and distribute posters"],
+    "answer": "Change concert timing"
+  },
+  {
+    "id": 5,
+    "question": "Which action was placed in the 'Bottom Left' quadrant initially but moved to 'Top Right' after collaboration?",
+    "options": ["Change concert timing", "Create CDs", "Create and distribute posters", "Perform during homeroom"],
+    "answer": "Create and distribute posters"
+  },
+  {
+    "id": 6,
+    "question": "What was a key outcome of using collaboration to prioritize actions?",
+    "options": ["It made all actions low priority", "It allowed more challenging actions to be tackled effectively", "It eliminated the need for high-impact actions", "It decreased the focus on high-impact actions"],
+    "answer": "It allowed more challenging actions to be tackled effectively"
+  },
+  {
+    "id": 7,
+    "question": "Which action did Eggplant and Tofu deem to have the lowest impact and placed in the 'Bottom Left' quadrant?",
+    "options": ["Create and distribute posters", "Message boards", "Change concert timing", "Use high school radio"],
+    "answer": "Message boards"
+  },
+  {
+    "id": 8,
+    "question": "Which action was considered high impact but hard to implement due to lack of expertise?",
+    "options": ["Perform during homeroom", "Create CDs for distribution", "Create and distribute posters", "Engage on social media"],
+    "answer": "Create CDs for distribution"
+  },
+  {
+    "id": 9,
+    "question": "What was the primary benefit of using the prioritization matrix?",
+    "options": ["It provided a visual way to rank actions", "It focused only on easy-to-implement ideas", "It simplified the process of decision-making", "It eliminated all low-impact actions"],
+    "answer": "It provided a visual way to rank actions"
+  },
+  {
+    "id": 10,
+    "question": "What was the final approach Eggplant and Tofu used to ensure their ideas were executed effectively?",
+    "options": ["Focusing on only high-impact ideas", "Leveraging collaboration for challenging tasks", "Outsourcing all tasks to other students", "Cutting out medium-priority actions"],
+    "answer": "Leveraging collaboration for challenging tasks"
+  }
+]

@@ -1,0 +1,111 @@
+[{
+    "id": 1,
+    "question": "What is the purpose of the Hypothesis Pyramid?",
+    "options": [
+      "To organize and structure ideas logically",
+      "To test the hypothesis without gathering data",
+      "To create a list of supporting ideas",
+      "To prove a hypothesis conclusively"
+    ],
+    "answer": "To organize and structure ideas logically"
+  },
+  {
+    "id": 2,
+    "question": "What is at the top of the Hypothesis Pyramid?",
+    "options": [
+      "The main conclusion",
+      "The supporting rationales",
+      "Evidence collected",
+      "Data analysis"
+    ],
+    "answer": "The main conclusion"
+  },
+  {
+    "id": 3,
+    "question": "Which structure should be used when each supporting rationale directly contributes to proving the conclusion?",
+    "options": [
+      "Grouping Structure",
+      "Argument Structure",
+      "Logical Structure",
+      "Reasoning Structure"
+    ],
+    "answer": "Argument Structure"
+  },
+  {
+    "id": 4,
+    "question": "In the Grouping Structure, what happens if one of the supporting rationales is proven false?",
+    "options": [
+      "The conclusion is automatically false",
+      "The conclusion may still stand",
+      "The entire pyramid falls apart",
+      "The supporting rationale is irrelevant"
+    ],
+    "answer": "The conclusion may still stand"
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of the Grouping Structure?",
+    "options": [
+      "Salmon are good swimmers because they are fish and fish are good swimmers",
+      "School is fun because sports, lunchtime, and classes are fun",
+      "Dogs are loyal because they are good pets and they care for their owners",
+      "Cats are playful because they are kittens and kittens are playful"
+    ],
+    "answer": "School is fun because sports, lunchtime, and classes are fun"
+  },
+  {
+    "id": 6,
+    "question": "In the Argument Structure, what happens if one of the premises is false?",
+    "options": [
+      "The entire conclusion is false",
+      "The conclusion is still valid",
+      "The hypothesis needs to be adjusted",
+      "The pyramid structure is unaffected"
+    ],
+    "answer": "The entire conclusion is false"
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of the Argument Structure?",
+    "options": [
+      "School is fun because sports, lunchtime, and classes are fun",
+      "Salmon are good swimmers because salmon are fish and fish are good swimmers",
+      "The sky is blue because the atmosphere scatters light",
+      "Water is essential for life because it helps plants grow"
+    ],
+    "answer": "Salmon are good swimmers because salmon are fish and fish are good swimmers"
+  },
+  {
+    "id": 8,
+    "question": "What is a key feature of the Argument Structure?",
+    "options": [
+      "Each rationale is independent and may be proven false without affecting the conclusion",
+      "Each rationale directly contributes to proving the conclusion",
+      "Rationales are grouped into categories based on their relevance",
+      "The conclusion can still hold if some of the premises are false"
+    ],
+    "answer": "Each rationale directly contributes to proving the conclusion"
+  },
+  {
+    "id": 9,
+    "question": "How does the Hypothesis Pyramid help when presenting an argument?",
+    "options": [
+      "It ensures that the conclusion is logically structured and well-supported",
+      "It helps generate more supporting rationales",
+      "It tests the validity of the supporting ideas",
+      "It automatically proves the conclusion"
+    ],
+    "answer": "It ensures that the conclusion is logically structured and well-supported"
+  },
+  {
+    "id": 10,
+    "question": "In the context of the example 'School is fun', what are the supporting rationales?",
+    "options": [
+      "School is fun",
+      "School sports, lunchtime, and classes",
+      "Sports, lunchtime, and classes are fun",
+      "School is fun and entertaining"
+    ],
+    "answer": "School sports, lunchtime, and classes"
+  }
+]
