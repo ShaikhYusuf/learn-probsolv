@@ -5,24 +5,29 @@
   </button>
 
   <!-- Dropdown Menu -->
-  <div class="dropdown-menu" *ngIf="isMenuActive">
-    <ul>
-      <li *ngFor="let item of menuItems" (click)="selectMenuItem(item)">
-        <a [routerLink]="getRouterLink(item)">{{ item.name }}</a>
-      </li>
-    </ul>
-  </div>
+  @if (isMenuActive) {
+    <div class="dropdown-menu">
+      <ul>
+        @for (item of menuItems; track item) {
+          <li (click)="selectMenuItem(item)">
+            <a [routerLink]="getRouterLink(item)">{{ item.name }}</a>
+          </li>
+        }
+      </ul>
+    </div>
+  }
 
   <!-- Main Content Section -->
   <div class="main-content">
     <div class="tabs-section">
-      <button 
-        *ngFor="let tab of tabs" 
-        [class.active]="activeTab === tab" 
-        (click)="setActiveTab(tab)" 
-        class="tab-button">
-        {{ tab }}
-      </button>
+      @for (tab of tabs; track tab) {
+        <button
+          [class.active]="activeTab === tab"
+          (click)="setActiveTab(tab)"
+          class="tab-button">
+          {{ tab }}
+        </button>
+      }
     </div>
     <router-outlet></router-outlet>
   </div>

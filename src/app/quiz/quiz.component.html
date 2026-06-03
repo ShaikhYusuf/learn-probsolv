@@ -1,23 +1,26 @@
 <div class="quiz-container">
-  <div *ngFor="let quiz of quizzes" class="quiz-item">
-    <h2>{{ quiz.question }}</h2>
-    <mat-list>
-      <mat-list-item
-        *ngFor="let option of quiz.options; let i = index"
-        [ngClass]="getClass(quiz.id, i + 1)"
-        (click)="selectOption(quiz.id, i + 1)"
-      >
-        {{ option }}
-      </mat-list-item>
-    </mat-list>
-  </div>
+  @for (quiz of quizzes; track quiz) {
+    <div class="quiz-item">
+      <h2>{{ quiz.question }}</h2>
+      <mat-list>
+        @for (option of quiz.options; track option; let i = $index) {
+          <mat-list-item
+            [ngClass]="getClass(quiz.id, i + 1)"
+            (click)="selectOption(quiz.id, i + 1)"
+            >
+            {{ option }}
+          </mat-list-item>
+        }
+      </mat-list>
+    </div>
+  }
   <div class="button-container">
     <button
       mat-raised-button
       class="custom-button"
       (click)="submitAnswers()"
       [disabled]="submitted"
-    >
+      >
       Submit
     </button>
   </div>

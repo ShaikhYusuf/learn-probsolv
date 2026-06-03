@@ -1,4 +1,4 @@
-import { CommonModule } from '@angular/common';
+
 import { Component } from '@angular/core';
 import { Router, RouterModule, RouterOutlet } from '@angular/router';
 import { MatListModule } from '@angular/material/list';
@@ -6,7 +6,7 @@ import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, RouterModule, CommonModule, MatListModule, MatIconModule],
+  imports: [RouterOutlet, RouterModule, MatListModule, MatIconModule],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
 })
