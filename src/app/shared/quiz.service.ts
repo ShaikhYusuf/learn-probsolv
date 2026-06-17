@@ -1,0 +1,84 @@
+import { Injectable } from "@angular/core";
+import { HttpClient } from "@angular/common/http";
+import { QuizServerRoutes } from '../features/server-info/quiz-server-routes'
+import { EMPTY, from, of } from "rxjs";
+
+@Injectable({ providedIn: 'root' })
+export class QuizService {
+  //---------------- Properties---------------
+  readonly rootUrl = window.location.origin;
+  //readonly rootUrl = "http://127.0.0.1:8080";
+  serverRoutes: QuizServerRoutes = new QuizServerRoutes();
+
+  qns: any[];
+  seconds: number;
+  timer: any;
+  qnProgress: number;
+  correctAnswerCount: number = 0;
+
+  //---------------- Helper Methods---------------
+  constructor(private http: HttpClient) {
+    this.qns = [];
+    this.seconds = 0;
+    this.qnProgress = 0;
+  }
+  displayTimeElapsed() {
+    return (
+      Math.floor(this.seconds / 3600) +
+      ":" +
+      Math.floor(this.seconds / 60) +
+      ":" +
+      Math.floor(this.seconds % 60)
+    );
+  }
+
+  getRandomIndex(maxIndex: number): number[] {
+    const nums = new Set<number>();
+    while (nums.size !== 20) {
+      nums.add(Math.floor(Math.random() * maxIndex) + 1);
+    }
+    return ([...nums]);
+  }
+
+  getParticipantName() {
+    var participant = JSON.parse(localStorage.getItem("participant") || '{}');
+    return participant.name || participant.Name || 'Guest';
+  }
+
+  insertParticipant(name: string, email: string) {
+    let participant = this.serverRoutes.registerParticipant(name, email);
+    localStorage.setItem("participant", JSON.stringify(participant));
+    return of(participant);
+  }
+
+  getParticipantList() {
+    return of(this.serverRoutes.getParticipantList());
+  }
+
+  //---------------- Http Methods---------------
+  getQuestions(category: string) {
+    let questionList = this.serverRoutes.getQuestionList(category)
+    let fewQuestionList = questionList
+    return of(fewQuestionList);
+  }
+
+  getCompleteQuestionList(category: string) {
+    let questionList = this.serverRoutes.getCompleteQuestionList(category)
+    return of(questionList);
+  }
+
+
+  submitScore() {
+    var participant = JSON.parse(localStorage.getItem("participant") || '{}');
+    participant.Score = this.correctAnswerCount;
+    participant.TimeSpent = this.seconds;
+
+    this.serverRoutes.updateScore(
+      participant.Id,
+      participant.Score,
+      participant.TimeSpent,
+    )
+
+    return of(true);
+  }
+}

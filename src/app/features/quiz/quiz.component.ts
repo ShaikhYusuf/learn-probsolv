@@ -2,11 +2,11 @@ import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { ActivatedRoute } from '@angular/router';
 import { CommonModule } from '@angular/common';
-import { MatListModule } from '@angular/material/list';
+import { MatIconModule } from '@angular/material/icon';
 
 @Component({
   selector: 'app-quiz',
-  imports: [CommonModule, MatListModule],
+  imports: [CommonModule, MatIconModule],
   templateUrl: './quiz.component.html',
   styleUrl: './quiz.component.css',
 })
@@ -51,6 +51,11 @@ export class QuizComponent {
     this.submitted = true;
   }
 
+  isCorrectOption(quiz: any, optionIndex: number): boolean {
+    if (!quiz) return false;
+    return quiz.answer === optionIndex || quiz.options[optionIndex - 1] === quiz.answer;
+  }
+
   getClass(quizId: number, optionIndex: number): string {
     if (!this.submitted) {
       return this.selectedAnswers[quizId] === optionIndex ? 'highlight' : '';
@@ -59,7 +64,7 @@ export class QuizComponent {
     const quiz = this.quizzes.find((quiz) => quiz.id === quizId);
     if (!quiz) return '';
 
-    const isCorrect = quiz.answer === optionIndex;
+    const isCorrect = this.isCorrectOption(quiz, optionIndex);
     const isSelected = this.selectedAnswers[quizId] === optionIndex;
 
     if (isCorrect) {
